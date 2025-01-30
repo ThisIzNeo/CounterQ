@@ -1,6 +1,6 @@
 # CounterQ Invoices system
 
-<img src="./conterQIcon.png">
+<img src="./conterQIcon.png" height="64px">
 
 A simple C program designed for managing invoices. It allows users to generate, save, search, and display invoices.
 
